@@ -4,4 +4,4 @@ https://www.mdpi.com/1996-1073/12/23/4490
 
 convert ipynb to py
 1. cd (Directory)
-2. ipynb-py-convert (filename).ipynb (filename).py
+2. ipynb-py-convert (Filename).ipynb (Filename).py
